@@ -7,3 +7,4 @@ Steps to run and create a CSV file
     scrapy crawl first -o data.csv -t csv
     ```
     this will create a data.csv file.
+3. If you want to modify the script, go to 'spiders' directory, and modify 'bond.spider.py' file
